@@ -5,6 +5,10 @@ import java.io.FileReader;
 import java.util.*;
 import java.util.stream.Collectors;
 
+/*
+    Based on https://www.reddit.com/user/jonathan_paulson/ implementation in python:
+    https://www.reddit.com/r/adventofcode/comments/e5bz2w/2019_day_3_solutions/f9iz68s/
+ */
 public class PB6Y {
 
 
